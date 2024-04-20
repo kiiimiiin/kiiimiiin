@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:034C9C,100:13279B&height=300&section=header&text=Welcome%20to%20Minki's%20Github&fontSize=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:318AF7,100:20D6BC&height=300&section=header&text=Welcome%20to%20Minki's%20Github&fontSize=50&fontColor=000000)
 
 
 <!--
