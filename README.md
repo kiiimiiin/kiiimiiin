@@ -10,9 +10,6 @@ Electrical Engineering (Major), Computer Science (Minor)
 
 <br/>
 
-
-- 🔍 Interests:
-- Embeded SoftWare, Device Driver and Daemon
-  
+- 🔍 Interests: Embeded SoftWare, Device Driver and Daemon
 - 📧 Mail: kiiimiiin@naver.com
 - 📖 Portfolio : https://buly.kr/CB3L6OO
