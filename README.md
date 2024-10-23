@@ -12,4 +12,4 @@ Electrical Engineering (Major), Computer Science (Minor)
 
 - 🔍 Interests: Embeded SoftWare, Device Driver and Daemon
 - 📧 Mail: kiiimiiin@naver.com
-- 📖 Portfolio : https://bit.ly/4eOiYns
+- 📖 Portfolio : bit.ly/portfolio_minki
